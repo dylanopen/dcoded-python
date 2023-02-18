@@ -1,3 +1,5 @@
+import os
+
 def read(file):
 	try:
 		with open(file) as f:
@@ -12,3 +14,9 @@ def write(file, content):
 	except:
 		return
 
+def create_folder(folder):
+	try:
+		os.mkdir(folder)
+		return True
+	except:
+		return False
