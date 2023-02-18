@@ -1,6 +1,6 @@
 [project]
 name = "dcoded"
-version = "0.0.1.3"
+version = "6"
 authors = [
 { name = "Dylan Rogers", email = "opendylan@proton.me" },
 ]
