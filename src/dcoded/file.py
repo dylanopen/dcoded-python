@@ -21,3 +21,10 @@ def create_folder(folder):
 	except:
 		return False
 
+def create_file(file):
+	try:
+		open(file, "x").close()
+		return True
+	except:
+		return False
+
