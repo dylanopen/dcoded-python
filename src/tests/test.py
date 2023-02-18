@@ -1,3 +1,3 @@
 import dcoded
 
-print(dcoded.file.read("test.py"))
+print(dcoded.file.read("src/tests/test.py"))

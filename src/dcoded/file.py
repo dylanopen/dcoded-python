@@ -4,3 +4,11 @@ def read(file):
 			return f.read()
 	except:
 		return
+
+def write(file, content):
+	try:
+		with open(file, "w") as f:
+			return f.write(content)
+	except:
+		return
+
