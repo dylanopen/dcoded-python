@@ -28,3 +28,8 @@ def create_file(file):
 	except:
 		return False
 
+def exists(file):
+	if os.path.exists(file):
+		return True
+	else:
+		return False
