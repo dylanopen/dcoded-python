@@ -1,3 +1,3 @@
-import dcoded
+from dcoded import file
 
-print(dcoded.file.read("src/tests/test.py"))
+print(file.write("src/tests/test.txt", "Hello"))
