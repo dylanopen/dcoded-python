@@ -1,18 +1,18 @@
 [project]
-name = "dcoded"
-version = "9"
+name = 'dcoded'
+version = '0.0.5.1'
 authors = [
-{ name = "Dylan Rogers", email = "opendylan@proton.me" },
+{ name = 'Dylan Rogers', email = 'opendylan@proton.me' },
 ]
-description = "dcoded - the Python package for everything"
-readme = "README.md"
-requires-python = ">=2.0"
+description = 'dcoded - the Python package for everything'
+readme = 'README.md'
+requires-python = '>=2.0'
 classifiers = [
-	"Programming Language :: Python",
-	"License :: OSI Approved :: MIT License",
-	"Operating System :: OS Independent",
+	'Programming Language :: Python',
+	'License :: OSI Approved :: MIT License',
+	'Operating System :: OS Independent',
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/dylanopen/dcoded-python"
-"Bug Tracker" = "https://github.com/dylanopen/dcoded-python/issues"
+'Homepage' = 'https://github.com/dylanopen/dcoded-python'
+'Bug Tracker' = 'https://github.com/dylanopen/dcoded-python/issues'

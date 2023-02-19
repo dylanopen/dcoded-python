@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/dcoded/__init__.py
+src/dcoded/file.py
+src/dcoded.egg-info/PKG-INFO
+src/dcoded.egg-info/SOURCES.txt
+src/dcoded.egg-info/dependency_links.txt
+src/dcoded.egg-info/top_level.txt
+src/tests/test.py
